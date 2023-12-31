@@ -1,6 +1,7 @@
 ---
 locations: 
 ---
+# Brookdale Fort Collins
 
 [1008 Rule Dr., Fort Collins, CO, 80525](geo:40.519361599999996,-105.0587568658595)
 
