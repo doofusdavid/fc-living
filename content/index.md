@@ -9,18 +9,19 @@ In Fort Collins, there are several assisted living and memory care facilities av
 
 ### Primarily Memory Care
 
-[[Aspens at Fort Collins]]
+- [[Aspens at Fort Collins]]
 
 ### Assisted Living / Memory Care
-[[Brookdale Fort Collins Memory Care]]
-[[Collinwood Assisted Living and Memory Care]]
-[[MacKenzie Place Fort Collins]]
-[[MorningStar Assisted Living & Memory Care of Fort Collins]]
+
+- [[Brookdale Fort Collins Memory Care]]
+- [[Collinwood Assisted Living and Memory Care]]
+- [[MacKenzie Place Fort Collins]]
+- [[MorningStar Assisted Living & Memory Care of Fort Collins]]
 
 
 ### Independent Living
-[[The Winslow Independent Living]]
-[[Rigden Farm Senior Living]]
+- [[The Winslow Independent Living]]
+- [[Rigden Farm Senior Living]]
 
 
 According to SeniorAdvice.com, memory care is typically 20-30% more expensive than assisted living because it’s a more specialized form of care that requires facilities to abide by stricter guidelines and uphold higher standards. Based on these calculations, memory care services in Fort Collins cost an average of $5,148 per month. On the other hand, assisted living costs about $2,499 per month 12. The cost of care can vary depending on the facility’s location and the resident’s needs.
