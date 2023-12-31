@@ -1,3 +1,4 @@
+# Assisted Living Fort Collins
 
 Assisted living and memory care are two different types of senior living options. Assisted living is a type of housing that provides assistance with daily activities such as bathing, dressing, and medication management. Memory care is a specialized type of assisted living that provides additional support for individuals with Alzheimer’s disease or other forms of dementia. Memory care facilities offer 24-hour supervision, structured activities, and specialized care to help residents maintain their cognitive abilities.
 
